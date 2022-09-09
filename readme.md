@@ -1,3 +1,4 @@
+[macOS]: https://apple.com/macos
 # Pure Python Official GitHub Project
 Pure Python is a GitHub project made purely with PyCharm.
 ## Instructions
@@ -6,4 +7,4 @@ You need __Python 3.5 (which is no longer supported)__ or later and a Python pac
 
 | OS Name | Has Python Pre-Installed? | Type of OS |
 | ------- | ------------------------- | ---------- |
-| [macOS](https://apple.com/macos) 10.12-12.x | No (Is Not Linux) | Mac Pre-Installed/macOS |
+| [macOS] 10.12-12.x | No (Is Not Linux) | [Mac Pre-Installed/macOS][macOS] |
