@@ -30,8 +30,8 @@ __Coming Soon!__
 ## Instructions
 You need __Python 3.5 (which is no longer supported)__ or later and a Python package named `termcolor` (you might've heard about this before). That's all the instructions. Now, lemme show you OS's that support Python.
 ### Supported OS's by Python
-| OS Name            | Has Python Pre-Installed? | Type of OS                       |
-|--------------------|---------------------------|----------------------------------|
+| OS Name             | Has Python Pre-Installed? | Type of OS                       |
+|---------------------|---------------------------|----------------------------------|
 | [macOS] 10.12-12.xx | No (Is Not Linux)         | [Mac Pre-Installed/macOS][macOS] |
-| [Ubuntu]           | Yes (Is Linux)            | Linux                            |
-| [Windows] 7-11     | No (Is Not Linux)         | [Microsoft]                      |
+| [Ubuntu]            | Yes (Is Linux)            | Linux                            |
+| [Windows] 7-11      | No (Is Not Linux)         | [Microsoft]                      |
