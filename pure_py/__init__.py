@@ -18,7 +18,7 @@ def make():
     print("Is the variable \"isModule\" equal to True?")
     py_time.sleep(2)
     if isModule:
-        print("Yes.")
+        print(colored("Yes!", green))
         print("isModule =", colored("True", green))
         return 0
     else:
