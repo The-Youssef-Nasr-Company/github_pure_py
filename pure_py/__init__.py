@@ -1,7 +1,7 @@
 from typing import Set
 from termcolor import colored
 import time as py_time
-isModule = True
+isModule = True  # type: bool
 red = "red"  # type: str
 yellow = "yellow"  # type: str
 blue = "blue"  # type: str
@@ -19,5 +19,9 @@ def make():
     py_time.sleep(2)
     if isModule:
         print("Yes.")
-        print("isModule =", colored(isModule, green))
-        return True
+        print("isModule =", colored("True", green))
+        return 0
+    else:
+        print("No...")
+        print("isModule =", colored(isModule, red))
+        return 1
