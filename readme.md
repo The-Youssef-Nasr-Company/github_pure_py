@@ -4,6 +4,9 @@
 * [1 Contents](#contents)
 * [2 Pure Python Official GitHub Project](#pure-python-official-github-project)
   * [2.1 Versions](#versions)
+    * [2.1.1 Version 1.0.0](#100)
+    * [2.1.2 Version 1.0.1](#101)
+    * [2.1.3 Future releases](#future-releases)
   * [2.2 Instructions](#instructions)
     * [2.2.1 Supported OS's by Python](#supported-oss-by-python)
 # Pure Python Official GitHub Project
