@@ -1,5 +1,7 @@
 [macOS]: https://apple.com/macos
 [Ubuntu]: https://ubuntu.com
+[Windows]: https://windows.com
+[Microsoft]: https://microsoft.com
 
 # Contents
 * [1 Contents](#contents)
@@ -30,5 +32,6 @@ You need __Python 3.5 (which is no longer supported)__ or later and a Python pac
 ### Supported OS's by Python
 | OS Name            | Has Python Pre-Installed? | Type of OS                       |
 |--------------------|---------------------------|----------------------------------|
-| [macOS] 10.12-12.x | No (Is Not Linux)         | [Mac Pre-Installed/macOS][macOS] |
+| [macOS] 10.12-12.xx | No (Is Not Linux)         | [Mac Pre-Installed/macOS][macOS] |
 | [Ubuntu]           | Yes (Is Linux)            | Linux                            |
+| [Windows] 7-11     | No (Is Not Linux)         | [Microsoft]                      |
