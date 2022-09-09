@@ -11,6 +11,7 @@ colors = {red, yellow, blue}  # type: Set[str]
 
 def make():
     global isModule
+    global colors
     print(colored("Script of function \"make\" found", yellow))
     py_time.sleep(2)
     print(colored("Creating threads...", blue))
@@ -22,6 +23,6 @@ def make():
         print("isModule =", colored("True", green))
         return 0
     else:
-        print("No...")
+        print(colored("No...", red))
         print("isModule =", colored(isModule, red))
         return 1
