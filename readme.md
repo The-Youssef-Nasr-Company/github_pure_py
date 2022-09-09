@@ -1,13 +1,10 @@
 [macOS]: https://apple.com/macos
 
 # Contents
-[1 Contents](#contents)
-
-[2 Pure Python Official GitHub Project](#pure-python-official-github-project)
-
-[2.1 Instructions](#instructions)
-
-[2.1.1 Supported OS's by Python](#supported-oss-by-python)
+* [1 Contents](#contents)
+* [2 Pure Python Official GitHub Project](#pure-python-official-github-project)
+  * [2.1 Instructions](#instructions)
+    * [2.1.1 Supported OS's by Python](#supported-oss-by-python)
 # Pure Python Official GitHub Project
 Pure Python is a GitHub project made purely with PyCharm.
 ## Instructions
