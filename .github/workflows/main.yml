@@ -27,10 +27,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Identifier Single-Line Version
-        run: echo This commit has been identified!
+        run: echo This commit will be identified!
 
       # Runs a set of commands using the runners shell
       - name: Identifier Multi-line Version
         run: |
-          echo This commit. It'll be
-          echo identified.
+          echo "This commit. It'll be"
+          echo "identified."
