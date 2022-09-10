@@ -15,11 +15,15 @@
       * [2.1.3.1 Beta](#beta)
       * [2.1.3.2 Current](#current)
 
-    * [2.1.4 Future releases](#future-releases)
+    * [2.1.4 Version 1.0.3](103)
+    * [2.1.5 Version 1.0.4](104)
+    * [2.1.6 Future releases](#future-releases)
   * [2.2 Instructions](#instructions)
     * [2.2.1 Supported OS's by Python](#supported-oss-by-python)
 # Pure Python Official GitHub Project
 [![Python Logo]](https://python.org)
+
+> Pure Python is no longer supported! Create a fork of this repo now.
 
 Pure Python is a GitHub project made purely with PyCharm.
 ## Versions
@@ -37,8 +41,12 @@ __Not documented.__
 * Updated pure_py module
 * Updated GitHub Action
 * Updated main.py
+### `1.0.3`
+* Updated main.py
+### `1.0.4`
+* Updated main.py
 ### `Future releases`
-___Coming Soon!___
+No more...
 ## Instructions
 You need __[Python](https://python.org) 3.5 (which is no longer supported and is the [Python](https://python.org) interpreter for this project)__ or later and a Python package named `termcolor` (you might've heard about this before, it was used by Youssef Land Terminal).
 ### Supported OS's by Python
