@@ -26,3 +26,8 @@ def make():
         print(colored("No...", red))
         print("isModule =", colored(isModule, red))
         return 1
+
+
+def print_str(input=str):
+    # Prints whatever the input is using the print statement.
+    print(input)
