@@ -28,7 +28,7 @@ ___A future release coming soon!___
 ### `Future releases`
 ___Coming Soon!___
 ## Instructions
-You need __Python 3.5 (which is no longer supported)__ or later and a Python package named `termcolor` (you might've heard about this before). That's all the instructions. Now, lemme show you OS's that support Python.
+You need __[Python](https://python.org) 3.5 (which is no longer supported and is the [Python](https://python.org) interpreter for this project)__ or later and a Python package named `termcolor` (you might've heard about this before). That's all the instructions. Now, lemme show you OS's that support Python.
 ### Supported OS's by Python
 | OS Name             | Has Python Pre-Installed? | Type of OS                       |
 |---------------------|---------------------------|----------------------------------|
