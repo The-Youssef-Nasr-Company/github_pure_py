@@ -26,7 +26,7 @@ This is a list of versions and updates.
 ### `1.0.3`
 ___A future release coming soon!___
 ### `Future releases`
-__Coming Soon!__
+___Coming Soon!___
 ## Instructions
 You need __Python 3.5 (which is no longer supported)__ or later and a Python package named `termcolor` (you might've heard about this before). That's all the instructions. Now, lemme show you OS's that support Python.
 ### Supported OS's by Python
