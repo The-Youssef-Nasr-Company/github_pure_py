@@ -9,7 +9,9 @@
   * [2.1 Versions](#versions)
     * [2.1.1 Version 1.0.0](#100)
     * [2.1.2 Version 1.0.1](#101)
-    * [2.1.3 Version 1.0.3](#103)
+    * [2.1.3 Version 1.0.2](#102)
+
+      * [2.1.3.1 Beta](#beta)
     * [2.1.4 Future releases](#future-releases)
   * [2.2 Instructions](#instructions)
     * [2.2.1 Supported OS's by Python](#supported-oss-by-python)
@@ -23,8 +25,13 @@ This is a list of versions and updates.
 * 2nd release:
   * Updated pure_py module
   * Guess what? A new GitHub Action!
-### `1.0.3`
-___A future release coming soon!___
+### `1.0.2`
+#### `Beta`
+__Not documented.__
+#### `Current`
+* Updated pure_py module
+* Updated GitHub action
+* Updated main.py
 ### `Future releases`
 ___Coming Soon!___
 ## Instructions
