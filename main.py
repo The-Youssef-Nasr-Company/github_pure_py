@@ -7,4 +7,5 @@ red = "red"
 colors = [green, red]
 py_time.sleep(2)
 help(print_str)
+help(make)
 print_str(colored("Success!", green))
