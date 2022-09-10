@@ -6,7 +6,7 @@ red = "red"  # type: str
 yellow = "yellow"  # type: str
 blue = "blue"  # type: str
 green = "green"  # type: str
-colors = {red, yellow, blue}  # type: Set[str]
+colors = {red, green, yellow, blue}  # type: Set[str]
 
 
 def make():
