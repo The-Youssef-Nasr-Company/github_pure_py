@@ -21,8 +21,8 @@
   * [2.2 Instructions](#instructions)
     * [2.2.1 Supported OS's by Python](#supported-oss-by-python)
 # Pure Python Official GitHub Project
-[![Python Logo]](https://python.org)
-
+> [![Python Logo]](https://python.org)
+>
 > Pure Python is no longer supported! Create a fork of this repo now.
 
 Pure Python is a GitHub project made purely with PyCharm.
